@@ -160,7 +160,7 @@ const FrogGame = () => {
       default:
         break;
     }
-  }, [gameOver, won]);
+  }, [gameOver, won, resetGame]);
   
   useEffect(() => {
     window.addEventListener('keydown', handleKeyDown);
