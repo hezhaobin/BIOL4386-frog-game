@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# BIOL4386-frog-game
+a demonstration project to showcase the ability to use chatbot for programming
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
