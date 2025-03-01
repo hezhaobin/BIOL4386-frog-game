@@ -13,7 +13,7 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://hezhaobin.github.io/frog-game",
+  "homepage": "https://hezhaobin.github.io/BIOL-4386-frog-game",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
